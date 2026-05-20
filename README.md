@@ -119,13 +119,13 @@ Developed an interactive Streamlit dashboard featuring:
 
 ## Results
 
-| Metric | Value |
-| Transactions Analyzed | 250,000 |
-| Total Transaction Value | ₹32.79 Crore |
-| Platform Success Rate | 95.05% |
-| Fraud Rate | 0.192% |
-| States Covered | 10 |
-| Banks Analyzed | 8 |
+| Metric & Value |
+| Transactions Analyzed: 250,000 |
+| Total Transaction Value: ₹32.79 Crore |
+| Platform Success Rate: 95.05% |
+| Fraud Rate: 0.192% |
+| States Covered: 10 |
+| Banks Analyzed: 8 |
 
 ---
 
