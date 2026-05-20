@@ -1,0 +1,17 @@
+Feature,Importance
+Is Same Bank,0.16172035
+Is Weekend,0.12790684
+Day Of Week,0.10892754
+Device Type,0.108916044
+Transaction Type,0.057800833
+Sender Bank,0.054845296
+Sender Age Order,0.05189156
+Receiver Age Group,0.047336556
+Receiver Bank,0.04447874
+Sender Age Group,0.043592464
+Network Type,0.039880324
+Merchant Category,0.036728468
+Sender State,0.03619256
+Month Num,0.031233124
+Amount,0.026716966
+Hour Of Day,0.021832358
